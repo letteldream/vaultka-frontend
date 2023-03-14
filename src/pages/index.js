@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable max-lines */
 /* eslint-disable @next/next/no-page-custom-font */
 import Head from 'next/head'
